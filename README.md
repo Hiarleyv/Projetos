@@ -4,5 +4,6 @@ Esse repositório foi criado para eu centralizar meus projetos pessoais, profiss
 <details>
 <summary>🇺🇸 <b>English Version (Click to expand)</b></summary>
 
+
 This repository was created to host my personal, professional, and academic projects. Here you will find code and solutions developed by me, ranging from software projects to hardware and robotics solutions. The main goal is to centralize my technical evolution and share knowledge, as well as serving as a portfolio of my journey in programming and as a Computer Engineering student at the University of Brasília (UnB).
 </details>
