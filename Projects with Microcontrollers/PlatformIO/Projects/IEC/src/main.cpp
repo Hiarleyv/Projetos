@@ -3,11 +3,11 @@
 #include <WiFiClientSecure.h>
 #include <UrlEncode.h>
 
-  const char* ssid = "SLA";
-  const char* senha = "12345678";
+  const char* ssid = "xxx";
+  const char* senha = "xxx";
 
-  const String token = "8912011811:AAG2yLOeoX7Gy8O2eRHHbE4tcqdEu3o5hi4";
-  const String id_chat = "-5362315859";
+  const String token = "xxx";
+  const String id_chat = "xxx";
 void setup() {
   Serial.begin(9600);
   WiFi.begin(ssid, senha);
